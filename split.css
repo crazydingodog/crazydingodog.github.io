@@ -162,7 +162,7 @@ p {
     display: flex;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .fs-split {
         height: auto;
         -webkit-flex-wrap: wrap;
@@ -181,7 +181,7 @@ p {
     background-size: cover;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .fs-split .split-image {
         height: 80vh;
         width: 100%;
@@ -203,7 +203,7 @@ p {
     overflow: auto;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .fs-split .split-content {
         width: 100%;
         height: auto;
@@ -223,7 +223,7 @@ p {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .fs-split .split-content .split-content-vertically-center {
         padding: 40px;
     }
@@ -261,7 +261,7 @@ p {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .split-bio {
         padding: 20px 0;
     }
