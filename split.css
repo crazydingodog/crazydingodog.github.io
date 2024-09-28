@@ -16,7 +16,7 @@
     font-family: 'Inconsolata';
     src: url('/fonts/Inconsolata-SemiBold.woff') format('woff'),
          url('/fonts/Inconsolata-SemiBold.woff2') format('woff2');
-    font-weight: 600; /* Adjust if your semi-bold has a different weight */
+    font-weight: 600;
     font-style: normal;
 }
 
