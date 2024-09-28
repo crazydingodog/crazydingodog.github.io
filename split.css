@@ -136,7 +136,10 @@ body.page-template-page-fullsingle-split {
   .fs-split .split-image {
     width: 50%;
     height: 100vh;
-    background-image: url("flyingdingo.jpg");
+    background-image: image-set(
+        url("/flyingdingo.jxl") type("image/jxl"),
+        url("/flyingdingo.jpg") type("image/jpeg")
+    );
     background-position: center center;
     background-size: cover; }
     @media (max-width: 800px) {
