@@ -225,7 +225,7 @@ p {
 
 @media (max-width: 1024px) {
     .fs-split .split-content .split-content-vertically-center {
-        padding: 40px;
+        padding: 20px;
     }
 }
 
